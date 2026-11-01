@@ -7,9 +7,12 @@ This project processes customer demographic data, service subscriptions, and acc
 
 ## 🚀 Presentation Slides & Results
 
-### 1. المشكلة والهدف وتحليل البيانات (EDA)
+## 📌 بطاقة التعريف بالمشروع (Project Title&Cover) 
 
 <img width="961" height="546" alt="T1" src="https://github.com/user-attachments/assets/bddc35e6-c815-44af-84cc-839cba3fb609" />
+
+## 1. المشكلة والهدف وتحليل البيانات (EDA)
+
 <img width="958" height="539" alt="T2" src="https://github.com/user-attachments/assets/c8e23acb-95d8-4d38-8042-8776b5757d64" />
 <img width="954" height="538" alt="T3" src="https://github.com/user-attachments/assets/176c46ca-61b6-40fa-b957-de0713f2785e" />
 <img width="957" height="532" alt="T4" src="https://github.com/user-attachments/assets/690a1239-c7fb-402f-bc6c-d6257c4e0f1b" />
